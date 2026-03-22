@@ -1,5 +1,5 @@
-# Практическое задание 7-9: REST API на Node.js с JWT-авторизацией
-
+# КОНТРОЛЬНАЯ РАБОТА 2 Практическое задание 7-11
+# 7 ПРАКТИЧЕСКАЯ:
 <img width="1651" height="1000" alt="image" src="https://github.com/user-attachments/assets/0c0420d5-efbe-41d5-ba23-98cb7c5b0428" />
 
 
@@ -10,7 +10,7 @@
 
 <img width="1669" height="903" alt="image" src="https://github.com/user-attachments/assets/7a17eb54-8a18-456f-861a-a193d3c14496" />
 
-9 ПРАКТИЧЕСКАЯ:
+#9 ПРАКТИЧЕСКАЯ:
 <img width="1670" height="1039" alt="image" src="https://github.com/user-attachments/assets/f08b2349-7cac-47e1-a21b-d9e847a5d5df" />
 
 
